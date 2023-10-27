@@ -1,0 +1,9 @@
+{
+  "name": "Tasker",
+  "version": "2.0.0",
+  "description": "task manager programm",
+  "main": "index.js",
+  "repository": "https://github.com/marunko/Tasker.git",
+  "author": "Marunko",
+  "license": "MIT"
+}
